@@ -1,9 +1,19 @@
-# Todo
+# To-Do List
 
-- [x] This is an example of a todo list item that's complete
-- [x] Todo lists are useful for keeping organised and focused
-- [ ] This one is not completed yet
-- [ ] You can mark it completed by pressing `Option`+`C` (or `Alt`+`C`) when your cursor is on this line
-  - [ ] You can also select multiple lines and mark them all at once!
-- [ ] When you press enter at the end of a line, it adds a new todo item on the next line
-- [ ] This, and more is provided by the [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) plugin by [Yu Zhang](https://github.com/yzhang-gh)
+## Personal
+
+- [ ] Send Tyler the Home Theater ideas (columns, etc.), review the speaker locations.
+- [ ] Try to fix Foam github integrations.
+- [ ] Figure out foam checkboxes.
+- [ ] Figure out foam editing in preview mode if possible.
+- [ ] Install other [recommended extensions](https://foambubble.github.io/foam/recommended-extensions).
+
+## Work
+
+- [ ] Respond to the visa information requests for [[newhire-onboarding]].
+- [ ] Complete the training I'm overdue for.
+- [ ] Finish formatting and send feedback notes for last 3 interviews.
+- [ ] Update and share requirements doc/PR. Moving it to the right sharepoint location.
+- [ ] Update my org notes in prep for re-org ~mid January.
+  - [ ] Add Rajesh and Susanta to org plan.
+-  Someone told me to talk to Donald Kallman about something, but I can't remember what.
