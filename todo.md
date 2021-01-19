@@ -2,12 +2,12 @@
 
 ## Personal
 
-- [ ] Send Tyler the Home Theater ideas (columns, etc.), review the speaker locations.
+- [x] Send Tyler the Home Theater ideas (columns, etc.), review the speaker locations.
 - [ ] Try to fix Foam github integrations.
-- [ ] Figure out foam checkboxes.
-- [ ] Figure out foam editing in preview mode if possible.
+- [x] Figure out foam checkboxes.
+- [x] Figure out foam editing in preview mode if possible.
 - [ ] Install other [recommended extensions](https://foambubble.github.io/foam/recommended-extensions).
-- [ ] Change setting on Julie's phone to not mask her mac address, same issue might exist on the iPads. (wifi settings, select your network, and there's a private address toggle)
+- [x] Change setting on Julie's phone to not mask her mac address, same issue might exist on the iPads. (wifi settings, select your network, and there's a private address toggle)
 
 ## Work
 
